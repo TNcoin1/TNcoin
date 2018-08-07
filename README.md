@@ -15,5 +15,5 @@ code="TNcoin"
 issuer="GDLIPLLZ7DLIJIN6ZZM2YQWR7HXN42OMU2PXDMST6QK4XK6CPXO3VECP"
 display_decimals=2
 name="TNcoin"
-desc=" CIK#: 0001740846 PNFPUS44 Dividends to be distribute after 12 months."https://tncoin.io/wp-content/uploads/2018/04/TNCoin_2-e1524776658876.png"
+desc="TNcoin, LP, CIK#: 0001740846 PNFPUS44 Dividends to be distribute after 12 months."https://tncoin.io/wp-content/uploads/2018/04/TNCoin_2-e1524776658876.png"
 # End of stellar federation server configuration
